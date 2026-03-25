@@ -1,6 +1,6 @@
 # 🥃 Barrel & Bolt: Custom Spirit Label Compliance & Approval Automation
 
-![Workflow Overview](./assets/Barrel-Bolt-Custom-Spirit-Label-Automation-Workflow.jpg)
+![Workflow Overview](./assets/Barrel-Bolt-Custom-Spirit-Label-Automation-Workflow.png)
 
 ## Overview
 
